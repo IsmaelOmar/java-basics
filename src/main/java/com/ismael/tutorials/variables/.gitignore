@@ -1,0 +1,10 @@
+**/*.iml
+**/*.idea
+**/.settings/
+**/target/
+**/bin/
+**/*.m2
+**/*.project
+/build/
+**/*.classpath
+**/*.scannerwork
